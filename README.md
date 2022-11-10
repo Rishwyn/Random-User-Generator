@@ -31,7 +31,7 @@ Go to the project directory
   cd Random-User-Generator
 ```
 
-Run program
+To generate users
 
 ```bash
   python main.py
