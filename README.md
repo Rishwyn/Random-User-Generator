@@ -1,7 +1,7 @@
 
 # Random User Generator
 
-A simple project to extract the required user data from an API using Python Requests Library and store it in a sorted CSV file.
+A simple project to generate user data from an API using Python Requests Library and store it in a sorted CSV file.
 
 
 ## API Reference
@@ -37,7 +37,7 @@ To generate users
   python main.py
 ```
 
-To sort the CSV file
+To sort the CSV file in the ascending order of firstName
 
 ```bash
   python sort.py
